@@ -1,0 +1,23 @@
+a-interesujesz sie komputerami
+b-lubisz naprawiac proste elektroniczne urzadzenia
+c-zmieniasz zarowki bez obawy kopniecia pradem
+d-ogladasz mapy dla przyjemnosci
+e-interesujesz sie polityka
+f-masz dobra wyobraznie przestrzenna
+g-interesujesz sie konstrukcja maszyn
+h-interesujesz sie architektura
+i-lubisz czytac ksiazki historyczne
+j-ciekawia cie organizmy, ich budowa
+k-interesuja cie mieszaniny chemiczne
+l-lubisz uczyc sie jezykow
+x-lubisz matematyke
+y-czytasz ksiazki w obcym jezyku w orginale
+m-miales dwojke z ktoregos z przedmiotow: MATEMATYKA, POLSKI, HISTORIA, GEOGRAFIA, ANGIELSKI
+n-miales co najmniej 4 z matematyki
+o-miales co najmniej 4 z fizyki
+p-miales co najmniej 4 z geografii
+r-miales co najmniej 4 z polskiego
+s-miales co najmniej 4 z historii
+t-miales co najmniej 5 z angielskiego
+u-miales co najmniej 5 z biologii
+w-miales co najmniej 4 z chemii
